@@ -1,7 +1,25 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: "AI for SME Success: Strategic Implementation & Business Growth"
+course_description: "This comprehensive course is designed specifically for owners and managers of Small and Medium Enterprises (SMEs) who want to leverage artificial intelligence to drive business growth and competitive advantage. Unlike technical AI courses, this program focuses on the strategic implementation of AI technologies from a business leadership perspective. Over 8 modules, participants will learn how to identify valuable AI opportunities, develop implementation roadmaps, select appropriate tools, manage AI projects, measure business impact, navigate ethical considerations, build AI-ready organizational cultures, and future-proof their businesses in the evolving AI landscape."
+course_description 2: "Who This Course Is For
+- SME owners and decision-makers looking to implement AI solutions
+- Business managers responsible for digital transformation initiatives
+- Entrepreneurs seeking a competitive advantage through technology
+- Non-technical business leaders who need to understand AI capabilities and limitations"
+                       "Key Learning Outcomes
+
+By the end of this course, participants will be able to:
+
+- Identify valuable AI implementation opportunities specific to their business
+- Develop a strategic roadmap for AI adoption in their organization
+- Select appropriate AI tools and technologies based on business needs
+- Manage AI implementation projects effectively
+- Measure and communicate the business impact of AI initiatives
+- Navigate ethical considerations and regulatory requirements
+- Build an AI-ready organizational culture
+- Future-proof their business in the evolving AI landscape"
+
+course_semester: "Spring 2025"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
 url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
