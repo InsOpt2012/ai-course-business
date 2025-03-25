@@ -1,4 +1,8 @@
 ---
-layout: home
+layout: default
+title: AI for SME Success
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+
+# Welcome to AI for SME Success
+
+This course will teach business owners how to strategically implement AI for growth.
