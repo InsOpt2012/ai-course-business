@@ -21,17 +21,17 @@ By the end of this course, participants will be able to:
 
 course_semester: "Spring 2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: ""/ai-course-business" # the subpath of your site, e.g. /blog/
+url: "https://insopt2012.github.io/ai-course-business/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "AI for SME Success"
+schoolurl: "https://insopt2012.github.io/ai-course-business/"
+
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Insight Optimizers
+    Northern California
+  
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
