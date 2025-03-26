@@ -37,8 +37,7 @@ url: "https://insopt2012.github.io/ai-course-business/" # the base hostname & pr
 schoolname: "AI for SME Success"
 schoolurl: "https://insopt2012.github.io/ai-course-business/"
 
-# Theme settings
-theme: minimal-mistakes-jekyll  # Add a theme for styling
+theme: minimal-mistakes-jekyll  
 
 address: |
     Insight Optimizers
