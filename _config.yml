@@ -2,31 +2,34 @@
 course_name: "AI for SME Success: Strategic Implementation & Business Growth"
 course_description: |
   This comprehensive course is designed specifically for owners and managers of Small and Medium Enterprises (SMEs) who want to leverage artificial intelligence to drive business growth and competitive advantage.
+  
   Unlike technical AI courses, this program focuses on the strategic implementation of AI technologies from a business leadership perspective.
-  Over 8 modules, participants will learn how to:
-    - Identify valuable AI opportunities
-    - Develop implementation roadmaps
-    - Select appropriate tools
-    - Manage AI projects
-    - Measure business impact
-    - Navigate ethical considerations
-    - Build AI-ready organizational cultures
-    - Future-proof their businesses in the evolving AI landscape
-course_description_2: |
-  Who This Course Is For:
-  - SME owners and decision-makers looking to implement AI solutions
-  - Business managers responsible for digital transformation initiatives
-  - Entrepreneurs seeking a competitive advantage through technology
-  - Non-technical business leaders who need to understand AI capabilities and limitations
 
-  Key Learning Outcomes:
-  - Identify valuable AI implementation opportunities specific to their business
-  - Develop a strategic roadmap for AI adoption in their organization
-  - Select appropriate AI tools and technologies based on business needs
-  - Manage AI implementation projects effectively
-  - Measure and communicate the business impact of AI initiatives
-  - Navigate ethical considerations and regulatory requirements
-  - Build an AI-ready organizational culture
+  **Over 8 modules, participants will learn how to:**
+    - Identify valuable AI opportunities  
+    - Develop implementation roadmaps  
+    - Select appropriate tools  
+    - Manage AI projects  
+    - Measure business impact  
+    - Navigate ethical considerations  
+    - Build AI-ready organizational cultures  
+    - Future-proof their businesses in the evolving AI landscape  
+
+course_description_2: |
+  **Who This Course Is For:**  
+  - SME owners and decision-makers looking to implement AI solutions  
+  - Business managers responsible for digital transformation initiatives  
+  - Entrepreneurs seeking a competitive advantage through technology  
+  - Non-technical business leaders who need to understand AI capabilities and limitations  
+
+  **Key Learning Outcomes:**  
+  - Identify valuable AI implementation opportunities specific to their business  
+  - Develop a strategic roadmap for AI adoption in their organization  
+  - Select appropriate AI tools and technologies based on business needs  
+  - Manage AI implementation projects effectively  
+  - Measure and communicate the business impact of AI initiatives  
+  - Navigate ethical considerations and regulatory requirements  
+  - Build an AI-ready organizational culture  
   - Future-proof their business in the evolving AI landscape
 
 course_semester: "Spring 2025"
@@ -37,7 +40,7 @@ url: "https://insopt2012.github.io/ai-course-business/" # the base hostname & pr
 schoolname: "AI for SME Success"
 schoolurl: "https://insopt2012.github.io/ai-course-business/"
 
-theme: jekyll-theme-leap-day 
+theme: jekyll-theme-primer
 
 address: |
     Insight Optimizers
