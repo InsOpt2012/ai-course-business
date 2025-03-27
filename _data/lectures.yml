@@ -1,0 +1,39 @@
+- type: lecture
+  date: 2025-04-01
+  title: "AI Fundamentals for Business Leaders"
+  tldr: "Understanding core AI concepts and their business applications"
+  
+- type: lecture
+  date: 2025-04-08
+  title: "AI Landscape for SMEs in 2025"
+  tldr: "Current AI tools, technologies, and trends relevant to small and medium enterprises"
+  
+- type: lecture
+  date: 2025-04-15
+  title: "Strategic AI Implementation Planning"
+  tldr: "Developing a comprehensive roadmap for AI adoption in your organization"
+  
+- type: lecture
+  date: 2025-04-22
+  title: "Managing AI Implementation Projects"
+  tldr: "Practical guidance on managing AI implementation from vendor selection to deployment"
+  
+- type: lecture
+  date: 2025-04-29
+  title: "Measuring and Communicating AI Business Impact"
+  tldr: "Defining, measuring, and communicating the business value of AI initiatives"
+  
+- type: lecture
+  date: 2025-05-06
+  title: "AI Ethics, Governance, and Compliance"
+  tldr: "Addressing ethical considerations, governance frameworks, and regulatory requirements"
+  
+- type: lecture
+  date: 2025-05-13
+  title: "Building an AI-Ready Organizational Culture"
+  tldr: "Strategies for preparing your team for AI adoption and fostering an AI-positive culture"
+  
+- type: lecture
+  date: 2025-05-20
+  title: "Future-Proofing Your Business in the AI Era"
+  tldr: "Emerging AI trends and strategies for staying ahead of technological changes"
