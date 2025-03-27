@@ -1,0 +1,63 @@
+- week: 1
+  date: 2025-04-01
+  title: "AI Fundamentals for Business Leaders"
+  lectures:
+    - 01-ai-fundamentals
+  assignments:
+    - AI-Opportunity-Identification
+    
+- week: 2
+  date: 2025-04-08
+  title: "AI Landscape for SMEs in 2025"
+  lectures:
+    - 02-ai-landscape
+  assignments:
+    - AI-Tool-Evaluation
+    
+- week: 3
+  date: 2025-04-15
+  title: "Strategic AI Implementation Planning"
+  lectures:
+    - 03-strategic-planning
+  assignments:
+    - Strategic-AI-Roadmap
+    
+- week: 4
+  date: 2025-04-22
+  title: "Managing AI Implementation Projects"
+  lectures:
+    - 04-implementation-projects
+  assignments:
+    - AI-Implementation-Plan
+    
+- week: 5
+  date: 2025-04-29
+  title: "Measuring and Communicating AI Business Impact"
+  lectures:
+    - 05-business-impact
+  assignments:
+    - AI-Business-Case
+    
+- week: 6
+  date: 2025-05-06
+  title: "AI Ethics, Governance, and Compliance"
+  lectures:
+    - 06-ethics-governance
+  assignments:
+    - AI-Ethics-Framework
+    
+- week: 7
+  date: 2025-05-13
+  title: "Building an AI-Ready Organizational Culture"
+  lectures:
+    - 07-organizational-culture
+  assignments:
+    - AI-Change-Management
+    
+- week: 8
+  date: 2025-05-20
+  title: "Future-Proofing Your Business in the AI Era"
+  lectures:
+    - 08-future-proofing
+  assignments:
+    - Future-Ready-AI-Strategy
