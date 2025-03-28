@@ -1,7 +1,4 @@
 ---
----
-
-@import "custom";
 
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -13,6 +10,8 @@
 
 $header-background-invert: 0%;
 @import "user_vars";
+
+@import "custom";
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
