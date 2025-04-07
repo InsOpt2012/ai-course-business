@@ -2,7 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 0px solid $grey-color-dark;
+   $clemson-orange: #f66733; // This is Clemson University's official orange color
+	border-top: 0px solid $grey-color-dark;
 	border-bottom: 6px solid $clemson-orange;
     min-height: 56px;
     background-color: $clemson-purple;
